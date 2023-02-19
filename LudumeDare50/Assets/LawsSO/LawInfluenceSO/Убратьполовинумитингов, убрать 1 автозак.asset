@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f810ea20ed0d41e4babd1631c8b182f8, type: 3}
+  m_Name: "\u0423\u0431\u0440\u0430\u0442\u044C\u043F\u043E\u043B\u043E\u0432\u0438\u043D\u0443\u043C\u0438\u0442\u0438\u043D\u0433\u043E\u0432,
+    \u0443\u0431\u0440\u0430\u0442\u044C 1 \u0430\u0432\u0442\u043E\u0437\u0430\u043A"
+  m_EditorClassIdentifier: 
+  _name: Kamikaze
+  _description: Removes 50% of meetings, the player loses a random prison truck
+  _effects:
+  - {fileID: 11400000, guid: 164cd55c51139574fbb750b282cc9d69, type: 2}
+  - {fileID: 11400000, guid: ea4cbdade8c485349af1fb81dc889cef, type: 2}

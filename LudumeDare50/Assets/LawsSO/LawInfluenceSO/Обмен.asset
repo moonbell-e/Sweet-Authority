@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f810ea20ed0d41e4babd1631c8b182f8, type: 3}
+  m_Name: "\u041E\u0431\u043C\u0435\u043D"
+  m_EditorClassIdentifier: 
+  _name: Hand in Pocket
+  _description: Adds 30% to the amount of meetings, adds 15% to the stock of money
+  _effects:
+  - {fileID: 11400000, guid: c3bea5e8164ce1f47a0a42e06712f448, type: 2}
+  - {fileID: 11400000, guid: 8f3597160d1ddfe43b184d83f6e9e7f7, type: 2}
