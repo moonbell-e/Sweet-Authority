@@ -29,6 +29,6 @@ The currency drips every 2 seconds, as well as after 1 arrest and after the laws
 
 ## Как выглядит игра
 
-![ux_vL4](https://user-images.githubusercontent.com/71431806/219964231-02ba6295-83d8-46a6-a32d-21c75a572f59.jpg)
+![qqL4nz4mPzs](https://user-images.githubusercontent.com/71431806/219966024-e8216c94-cf0e-42de-89b4-5f4417ffbbd2.jpg)
 ![ux_vL4](https://user-images.githubusercontent.com/71431806/219964244-9a5aa430-df41-4275-b5c0-e64984e3e324.jpg)
 ![ezgif com-optimize](https://user-images.githubusercontent.com/71431806/219965944-8ef74730-0ca7-4986-8e3b-423e489414d3.gif)
