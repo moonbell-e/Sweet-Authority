@@ -3,7 +3,7 @@
 
 1. [English](#en)
 2. [Russian](#rus)
-3. Как выглядит игра(#как-выглядит-игра)
+3. [Как выглядит игра](#как-выглядит-игра)
 
 # EN
 The game is about inevitable loss of authority. You need to control the city.
